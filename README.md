@@ -34,6 +34,12 @@ Modüler Unity envanter ve eşya sistemi. Bu repository, OnlineRPG projesinden �
 
 Bu sistem modüler olarak tasarlanmıştır ve diğer Unity projelerine entegre edilebilir. Orijinal OnlineRPG projesi ile bağımsız olarak çalışır.
 
+## 📈 İstatistikler
+
+- **Toplam Script Dosyası**: 10
+- **Toplam Kod Satırı**: 4400+
+- **Son Güncelleme**: 27 Haziran 2025
+
 ## 📧 İletişim
 
 Bu sistem ile ilgili sorularınız için issue açabilirsiniz.
