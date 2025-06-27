@@ -200,7 +200,18 @@ Bu sistem modüler olarak tasarlanmıştır ve diğer Unity projelerine entegre 
 - **📱 Platform**: PC, Mobile Ready
 - **🔄 Son Güncelleme**: 27 Haziran 2025
 
-## 📞 İletişim
+## � Lisans
+
+Bu proje [MIT License](LICENSE) altında lisanslanmıştır. Ticari ve kişisel projelerde özgürce kullanabilirsiniz.
+
+### Lisans Özeti:
+- ✅ **Ticari Kullanım**: İzin verilir
+- ✅ **Değiştirme**: İzin verilir  
+- ✅ **Dağıtım**: İzin verilir
+- ✅ **Özel Kullanım**: İzin verilir
+- ❗ **Garanti Yok**: Yazılım "olduğu gibi" sağlanır
+
+## �📞 İletişim
 
 - **👨‍💻 GitHub**: [@grknsytrk](https://github.com/grknsytrk)
 - **📧 Email**: oyungrkn@gmail.com
